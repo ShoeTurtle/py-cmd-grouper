@@ -1,0 +1,10 @@
+#Sample Commands to execute
+
+echo 'How do u do':1
+ls:1,2
+touch sample.txt:1
+echo 'Inserting the sample text' > sample.txt:1
+cat ./sample.txt:1
+pwd:1,2
+
+custom_cmd_grouping = CmdGroupA:1, CmdGroupB:2
