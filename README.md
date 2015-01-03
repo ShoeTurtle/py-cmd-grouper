@@ -8,8 +8,8 @@ Usage : python run_cmd.py -cmdPath cmd_runner_sample.txt
 ------------------
  Command Grouping 
 ------------------
-1. CmdGroupA
-2. CmdGroupB
+1) CmdGroupA <br>
+2) CmdGroupB <br>
 
 COMMAND NUMBER: 1
 
